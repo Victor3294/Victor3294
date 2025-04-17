@@ -35,8 +35,8 @@ My name is **Victor Blum** and this is my profile! ✨ _Thx for coming_ ✨
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasArthurDev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasArthurDev&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor3294&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor3294&layout=compact&theme=tokyonight" />
 </div>
 
 ---
