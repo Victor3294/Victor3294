@@ -6,9 +6,7 @@ My name is **Victor Blum** and this is my profile! ✨ _Thx for coming_ ✨
 
 💻 Studying System Analysis and Development (ADS) at IFSC;
 
-🚀 Experienced in Java, SQL, and PostgreSQL;
-
-📚 Currently learning Shell; 
+🚀 Experienced in Java, SQL, and PostgreSQL; 
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, Game Development, and System Projects; 
 
