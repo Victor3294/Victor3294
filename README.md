@@ -35,7 +35,7 @@ My name is **Victor Blum** and this is my profile! ✨ _Thx for coming_ ✨
 ---
 
 ## Social Media  
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-arthur-raulino-oliveira/)  -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/victor-blum-52a219298?trk=people-guest_people_search-card)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor3294)  
 <!--
 **Victor3294/Victor3294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
